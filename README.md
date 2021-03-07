@@ -1,6 +1,6 @@
 # Aulios
 
-##Changelog
+## Changelog
 
 + updated version
 + updated icon texture
