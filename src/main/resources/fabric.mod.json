@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "id": "aulios",
-  "version": "1.0.0",
+  "version": "1.0.3",
 
   "name": "Aulios",
   "description": "This mods use is only intendet for the Aulios server!",
@@ -10,7 +10,8 @@
   ],
   "contact": {
     "homepage": "https://github.com/Blaueschmied",
-    "sources": "https://github.com/Blaueschmied/AuliosMod"
+    "sources": "https://github.com/Blaueschmied/AuliosMod",
+    "issues": "https://github.com/Blaueschmied/AuliosMod/issues"
   },
 
   "license": "CC0-1.0",
